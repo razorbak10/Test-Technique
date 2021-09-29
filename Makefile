@@ -1,5 +1,5 @@
 ##
-## EPITECH PROJECT, 2021
+## yannis valente, 2021
 ## Test-Technique
 ## File description:
 ## Makefile
