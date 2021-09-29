@@ -21,7 +21,7 @@ int main (int ac, char **arg)
         return(84);
 }
 
-int checknbpos(int nb , float  nb2) // check nombre positif
+void checknbpos(int nb , float  nb2) // check nombre positif
 {
     double Resultfloat;
     double corret;

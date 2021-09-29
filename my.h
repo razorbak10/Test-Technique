@@ -15,7 +15,7 @@
 #define MY_H_
 
 void displayhelp();
-int checknbpos(int nb, float nb2); // check nombr positif
+void checknbpos(int nb, float nb2); // check nombr positif
 int main (int ac, char ** arg);
 int compartfloat(std::string Str); 
 int checknbneg(int nb , float nb2); // check nombre négatif
