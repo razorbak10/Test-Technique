@@ -6,7 +6,7 @@
 ##
 
 
-NAME   = Test-Techinque
+NAME   = Test-Technique
 
 
 SRC    =  Main.cpp
